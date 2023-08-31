@@ -65,5 +65,5 @@ function App() {
     </div>
   );
 }
-paige 
+
 export default App;
